@@ -40,3 +40,24 @@ In this course we will discover and go into depth on these topics:
 -   Git Behind The Scenes
 -   Reflogs
 -   Custom Aliases
+
+## What is Git?
+
+Git is used as a `version control system` also referred to as a `vcs`
+
+`Version Control` is software that `tracks and manages changes` to files over time. It allows users to revisit earlier versions of files, compare changes between versions, undo changes, and a whole lot more
+
+You can download and read more about `git` docs on the [Official Git Homepage](https://git-scm.com/)
+
+### Visualizing Git
+
+Git helps us to:
+
+-   Track changes across multiple files
+-   Compare versions of a project
+-   "Time Travel" back to old versions
+-   Revert to a previous version
+-   Collaborate and share changes
+-   Combine Changes
+
+Git allows us to make different versions of the same project for comparison, working on a different "timeline", tha changes can be combined once approved at the end of the working tree history, or, you can go back to a previous "checkpoint" of your project and you can resume working from that specific point
