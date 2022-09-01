@@ -60,4 +60,4 @@ Git helps us to:
 -   Collaborate and share changes
 -   Combine Changes
 
-Git allows us to make different versions of the same project for comparison, working on a different "timeline", tha changes can be combined once approved at the end of the working tree history, or, you can go back to a previous "checkpoint" of your project and you can resume working from that specific point
+Git allows us to make different versions of the same project for comparison, working on a different "timeline", tha changes can be combined once approved at the end of the working tree history, or, you can go back to a previous "checkpoint" of your project and you can resume working from that specific point.
